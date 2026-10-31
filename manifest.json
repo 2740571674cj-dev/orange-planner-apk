@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 21,
-  "versionName": "3.8.0-ai-reliability",
-  "notes": "修复AI多日期提醒与时间解析；“分别提醒”不再误判为取消；连续对话记住已取消、已确认的行动状态；编辑重发不重复显示旧消息，已取消卡片折叠；同日期重复行动阻止保存；新回复不再被输入栏遮挡。保留个人数据并支持覆盖更新。",
+  "versionCode": 22,
+  "versionName": "3.8.1-chat-auto-title",
+  "notes": "AI 助手新建会话优化：点击「新对话」即可直接开始聊天，不再要求填写名称或项目；第一条消息发送后，AI 根据主题自动生成简短标题，失败时使用本地标题；项目归属与手动改名可在「会话设置」中调整，手动名称不会被 AI 覆盖；保留原有对话、头像、模型连接、提醒、账本及个人数据，支持覆盖安装。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
       "size": 344054,
-      "sha256": "399183efadf686f1caaf033ca70db5ff90783c6a130e73c52f57c475eab92985",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v21-399183ef.apk"
+      "sha256": "e080bcfc61e255dad62e06a68510381c6a3b1f8240d91d7c38a5aec10a6c744d",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v22-e080bcfc.apk"
     }
   ]
 }
