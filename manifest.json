@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "versionCode": 19,
   "versionName": "3.6.0-payment-sync",
-  "notes": "新增支付通知自动记账和分类去重；成长记录改为时间线并支持发生时间；自动更新增加手机流量检查和应用内提示。覆盖安装保留原有数据。",
+  "notes": "新增支付通知自动记账与分类去重；成长记录改为时间线，支持填写发生时间；自动更新支持Wi-Fi和手机流量，旧更新源自动迁移到GitHub新源。覆盖安装保留原有数据。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
       "size": 323357,
-      "sha256": "42452ef3283652b2fae2bbebc3fc8933d2e770cf45131178db925e00fad7617c",
+      "sha256": "ca2cd354daf06e0703afd5e81bc4dd0c1e9584bc81b7f7d8d934f062d513f6d9",
       "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v19.apk"
     }
   ]
