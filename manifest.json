@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 20,
-  "versionName": "3.7.0-profile-sounds",
-  "notes": "新增个人资料头像：拍照、相册选择、裁剪及移除，顶部头像同步；提醒铃声和闹钟铃声独立选择、试听与导入，支持振动和提前提醒；所有应用弹窗改为屏幕居中显示。覆盖安装保留原有资料。",
+  "versionCode": 21,
+  "versionName": "3.8.0-ai-reliability",
+  "notes": "修复AI多日期提醒与时间解析；“分别提醒”不再误判为取消；连续对话记住已取消、已确认的行动状态；编辑重发不重复显示旧消息，已取消卡片折叠；同日期重复行动阻止保存；新回复不再被输入栏遮挡。保留个人数据并支持覆盖更新。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 339886,
-      "sha256": "3927b3077b1288953602bacc2bf242d88fae41511e821b859bb0687f23baeafe",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v20-3927b307.apk"
+      "size": 344054,
+      "sha256": "399183efadf686f1caaf033ca70db5ff90783c6a130e73c52f57c475eab92985",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v21-399183ef.apk"
     }
   ]
 }
