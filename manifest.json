@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 19,
-  "versionName": "3.6.0-payment-sync",
-  "notes": "新增支付通知自动记账与分类去重；成长记录改为时间线，支持填写发生时间；自动更新支持Wi-Fi和手机流量，旧更新源自动迁移到GitHub新源。覆盖安装保留原有数据。",
+  "versionCode": 20,
+  "versionName": "3.7.0-profile-sounds",
+  "notes": "新增个人资料头像：拍照、相册选择、裁剪及移除，顶部头像同步；提醒铃声和闹钟铃声独立选择、试听与导入，支持振动和提前提醒；所有应用弹窗改为屏幕居中显示。覆盖安装保留原有资料。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 323357,
-      "sha256": "ca2cd354daf06e0703afd5e81bc4dd0c1e9584bc81b7f7d8d934f062d513f6d9",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v19-ca2cd354.apk"
+      "size": 339886,
+      "sha256": "3927b3077b1288953602bacc2bf242d88fae41511e821b859bb0687f23baeafe",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v20-3927b307.apk"
     }
   ]
 }

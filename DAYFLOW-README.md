@@ -1,10 +1,11 @@
-# 日序 DayFlow 更新发布
+# 日序 DayFlow · 安卓版本发布
 
-当前版本：**v19**
+当前版本：**v20 — 个人资料与声音设置**。
 
-- [直接下载 Android APK](https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v19.apk)
-- [自动更新清单](https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/manifest.json)
+[下载 v20 APK](https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v20-3927b307.apk)
 
-手机原先安装的 v18 首次升级前，需要在「应用更新 → 更新源」里将地址改为上述版本清单的完整 URL，随后检查更新。升级时不要卸载旧版。
+[查看更新清单](https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/manifest.json)
 
-新安装包与 v18 签名相同。更新检查不是服务器实时推送，安卓系统安排后台定期检查；安装仍需系统确认。
+直接覆盖安装 v19，不要先卸载。新版加入头像上传、资料页共享头像、提醒/闹钟独立铃声、原生音频试听以及统一居中弹窗。安卓系统安装时仍需用户确认。
+
+版本清单给安装版日序用来检查是否有新版本；新版检查到更新后会显示通知并提供下载安装。
