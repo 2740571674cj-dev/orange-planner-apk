@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 27,
-  "versionName": "3.10.0-inspirations",
-  "notes": "完成计划时只需填写一段完成情况，由已连接的AI自动分析并保存结果；未连接模型仍可完成，原记录保留。底部奖励商店替换为“灵感”，可随时记录、编辑和删除想法，内容进入备份与同步。历史金币和兑换记录保留；原有计划、提醒和账本功能不变。",
+  "versionCode": 28,
+  "versionName": "3.10.1-category-edit",
+  "notes": "计划分类识别升级：结合任务内容与具体行为判断工作、学习或生活，减少电机/工艺类学习任务被误归工作、工作协作任务被误归生活。新建和编辑计划新增可见分类设置；AI创建的计划也可在确认前修改分类。手动分类优先，后续AI更新不会擅自覆盖。保留原计划、灵感、提醒、成长数据，支持覆盖升级。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 559139,
-      "sha256": "bcc3ffec343a600228e4c09779596735cb338e7e4bdde6a14f93c84955d17c07",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v27-bcc3ffec.apk"
+      "size": 567487,
+      "sha256": "51c9ecbd39eb5f303b7b4fdc7b34d612ddef38f18597d437615cd0d12724e9bf",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v28-51c9ecbd.apk"
     }
   ]
 }
