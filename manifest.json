@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 25,
-  "versionName": "3.9.2-reminder-experience",
-  "notes": "计划卡新增下次提醒状态，临近提醒自动显示秒级倒计时，稍后5分钟跨息屏重开仍准确；震动支持开关，开启后持续规律震动直至确认或稍后；新行动铃声选择支持右上试听开关及点击试听；提醒时机弹窗和锁屏全屏页面增加植物背景，保留准点和自选提前提醒，可直接覆盖安装。",
+  "versionCode": 26,
+  "versionName": "3.9.3-botanical-pixel",
+  "notes": "根据确认的植物绿意强提醒原图重新优化息屏全屏提醒：修正卡片、铃铛、文字、倒计时条与两个操作按钮位置，采用原图提取的绿色山景和叶片装饰；保留持续响铃/可选震动、铃声试听、5分钟后提醒倒计时与准点/提前提醒功能，可直接覆盖安装。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 386368,
-      "sha256": "7b0141389f6513726b1b16e194d77478813d8a06641d85b461cd5052faffacee",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v25-7b014138.apk"
+      "size": 554827,
+      "sha256": "cf93a697e5c3f7d3c54127e2ee894b2cc1f7da4d5f9b8d14b49a2ec190a8551b",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v26-cf93a697.apk"
     }
   ]
 }
