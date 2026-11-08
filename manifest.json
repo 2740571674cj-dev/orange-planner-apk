@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 23,
-  "versionName": "3.9.0-smart-reminders",
-  "notes": "智能提醒升级：AI理解任务与本地规则共同判断强提醒，重要工作、交付和预约默认提高提醒等级；没有具体开始时间的提醒可按默认时间通知。强提醒增加醒目通知、较长铃声与震动、知道了和稍后5分钟操作，未确认时再提醒。保留现有任务、聊天、账本和铃声选择，支持覆盖升级。",
+  "versionCode": 24,
+  "versionName": "3.9.1-reminder-timing",
+  "notes": "提醒统一使用强提醒及震动；默认只准点提醒，可在任务中选择提前 5、10、15、30 或 60 分钟；日期、时间与提醒时机改为应用内自定义选择弹窗；支持锁屏提醒权限引导，保留原有任务及设置，可覆盖安装。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 352316,
-      "sha256": "619f6d67ed62c46f59231406ecd5c0901e889040ababb5f86a24c65addbc5302",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v23-619f6d67.apk"
+      "size": 360817,
+      "sha256": "c35333d64cdadae58e9a30d728b215bef921f1b122f703295b82f94d07ca91a3",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v24-c35333d6.apk"
     }
   ]
 }
