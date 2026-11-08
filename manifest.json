@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 24,
-  "versionName": "3.9.1-reminder-timing",
-  "notes": "提醒统一使用强提醒及震动；默认只准点提醒，可在任务中选择提前 5、10、15、30 或 60 分钟；日期、时间与提醒时机改为应用内自定义选择弹窗；支持锁屏提醒权限引导，保留原有任务及设置，可覆盖安装。",
+  "versionCode": 25,
+  "versionName": "3.9.2-reminder-experience",
+  "notes": "计划卡新增下次提醒状态，临近提醒自动显示秒级倒计时，稍后5分钟跨息屏重开仍准确；震动支持开关，开启后持续规律震动直至确认或稍后；新行动铃声选择支持右上试听开关及点击试听；提醒时机弹窗和锁屏全屏页面增加植物背景，保留准点和自选提前提醒，可直接覆盖安装。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 360817,
-      "sha256": "c35333d64cdadae58e9a30d728b215bef921f1b122f703295b82f94d07ca91a3",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v24-c35333d6.apk"
+      "size": 386368,
+      "sha256": "7b0141389f6513726b1b16e194d77478813d8a06641d85b461cd5052faffacee",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v25-7b014138.apk"
     }
   ]
 }
