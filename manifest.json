@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 26,
-  "versionName": "3.9.3-botanical-pixel",
-  "notes": "根据确认的植物绿意强提醒原图重新优化息屏全屏提醒：修正卡片、铃铛、文字、倒计时条与两个操作按钮位置，采用原图提取的绿色山景和叶片装饰；保留持续响铃/可选震动、铃声试听、5分钟后提醒倒计时与准点/提前提醒功能，可直接覆盖安装。",
+  "versionCode": 27,
+  "versionName": "3.10.0-inspirations",
+  "notes": "完成计划时只需填写一段完成情况，由已连接的AI自动分析并保存结果；未连接模型仍可完成，原记录保留。底部奖励商店替换为“灵感”，可随时记录、编辑和删除想法，内容进入备份与同步。历史金币和兑换记录保留；原有计划、提醒和账本功能不变。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 554827,
-      "sha256": "cf93a697e5c3f7d3c54127e2ee894b2cc1f7da4d5f9b8d14b49a2ec190a8551b",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v26-cf93a697.apk"
+      "size": 559139,
+      "sha256": "bcc3ffec343a600228e4c09779596735cb338e7e4bdde6a14f93c84955d17c07",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v27-bcc3ffec.apk"
     }
   ]
 }
