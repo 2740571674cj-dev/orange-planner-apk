@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 28,
-  "versionName": "3.10.1-category-edit",
-  "notes": "计划分类识别升级：结合任务内容与具体行为判断工作、学习或生活，减少电机/工艺类学习任务被误归工作、工作协作任务被误归生活。新建和编辑计划新增可见分类设置；AI创建的计划也可在确认前修改分类。手动分类优先，后续AI更新不会擅自覆盖。保留原计划、灵感、提醒、成长数据，支持覆盖升级。",
+  "versionCode": 29,
+  "versionName": "3.11.0-ai-actions",
+  "notes": "强化日序 AI 处理计划：兼容不同模型的 JSON、函数调用与流式操作输出；模型识别正确的任务不再因协议字段差异被直接拦截。支持按名称修改计划、延迟、完成、记录与修改灵感，多个操作逐项校验，能执行的继续确认，待补充的单独说明。修正多日期和延迟时间计算，优先保留用户明确时间与手动分类；Android 同时兼容 Chat Completions 与 Responses 模型请求。所有改动仍需用户确认后保存，历史计划和提醒数据保留。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 567487,
-      "sha256": "51c9ecbd39eb5f303b7b4fdc7b34d612ddef38f18597d437615cd0d12724e9bf",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v28-51c9ecbd.apk"
+      "size": 575678,
+      "sha256": "89e5d23bbe97c63910567e6b6944b9e5d7a8bc7c97c6e28ee4b0e8becc305ef9",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v29-89e5d23b.apk"
     }
   ]
 }
