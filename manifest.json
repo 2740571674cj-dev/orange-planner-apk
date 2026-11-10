@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 29,
-  "versionName": "3.11.0-ai-actions",
-  "notes": "强化日序 AI 处理计划：兼容不同模型的 JSON、函数调用与流式操作输出；模型识别正确的任务不再因协议字段差异被直接拦截。支持按名称修改计划、延迟、完成、记录与修改灵感，多个操作逐项校验，能执行的继续确认，待补充的单独说明。修正多日期和延迟时间计算，优先保留用户明确时间与手动分类；Android 同时兼容 Chat Completions 与 Responses 模型请求。所有改动仍需用户确认后保存，历史计划和提醒数据保留。",
+  "versionCode": 30,
+  "versionName": "3.11.1-ai-task-card-fix",
+  "notes": "修复 AI 助手发送消息后偶发无回复的问题：失败时显示明确提示并支持一键重试，保留原问题。完善任务主题、摘要、详情及实施步骤，保留提醒时间、条件与备用方案；不额外添加用户未要求的动作。任务确认前可以编辑完整内容。采用 Figma 极简任务卡片，默认折叠、点击展开详情，保存状态与实际写入一致。沿用原有应用包名、签名与用户数据。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 575678,
-      "sha256": "89e5d23bbe97c63910567e6b6944b9e5d7a8bc7c97c6e28ee4b0e8becc305ef9",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v29-89e5d23b.apk"
+      "size": 579772,
+      "sha256": "f2f058d96ba7a71910ad770e4e55f20257456a221ecede5e903962c422c429e2",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v30-f2f058d9.apk"
     }
   ]
 }
