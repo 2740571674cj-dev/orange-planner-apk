@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 30,
-  "versionName": "3.11.1-ai-task-card-fix",
-  "notes": "修复 AI 助手发送消息后偶发无回复的问题：失败时显示明确提示并支持一键重试，保留原问题。完善任务主题、摘要、详情及实施步骤，保留提醒时间、条件与备用方案；不额外添加用户未要求的动作。任务确认前可以编辑完整内容。采用 Figma 极简任务卡片，默认折叠、点击展开详情，保存状态与实际写入一致。沿用原有应用包名、签名与用户数据。",
+  "versionCode": 31,
+  "versionName": "3.12.0-ai-reply-reliability",
+  "notes": "修复 AI 助手发送消息后没有回复的问题：请求失败、超时或中断时都会显示明确状态（含「已等待 N 秒」），并支持一键重试，重试不会重复创建消息、提醒或任务。补充看门狗与悬挂请求回收，切换应用或返回编辑框后重新发送也能正常衔接；同时确保图片附件以真实图片内容送达模型，而不只是文件名。沿用原有包名、签名与用户数据，可直接覆盖安装。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 579772,
-      "sha256": "f2f058d96ba7a71910ad770e4e55f20257456a221ecede5e903962c422c429e2",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v30-f2f058d9.apk"
+      "size": 579775,
+      "sha256": "eab0faa1c765d43e0ab2c8968d5cabf877e4b5cb27265d26d75274afe4b04f09",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v31-eab0faa1.apk"
     }
   ]
 }
