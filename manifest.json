@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 35,
-  "versionName": "3.14.2-ai-centered-home",
-  "notes": "对话首页采用居中极简布局：问候语「今日作序，心有所期」不带句号，输入框直接选择模型并保留附件、发送；移除旧欢迎卡、重复标题和输入框内的账本勾选，历史会话可再次点击底部「对话」进入。已有对话继续使用底部输入，保留原有任务、成长、灵感及数据功能。",
+  "versionCode": 36,
+  "versionName": "3.14.3-chat-navigation",
+  "notes": "修复对话首页缺少操作入口的问题：在顶部明确展示「历史对话」和「新对话」，可查看、切换已有会话或创建新会话；中间问候语与输入框保持居中，模型选择、附件和发送功能保留。原有聊天记录与其他日序功能不受影响。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 592509,
-      "sha256": "3e97c61d25785b71f0855721ae76d59eb3072f9723f429023f90ef6c66b54c42",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v35-3e97c61d.apk"
+      "size": 592507,
+      "sha256": "cd09c758d9d10b183231a2b4614aa94cfb153588c60e5272a9405b440ff63a6b",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v36-cd09c758.apk"
     }
   ]
 }
