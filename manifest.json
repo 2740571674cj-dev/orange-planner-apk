@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 32,
-  "versionName": "3.13.0-ai-context-session",
-  "notes": "修复 AI 附件识别与会话管理：追问历史图片时按需重新取用该轮附件，正确区分「当前消息没有新附件」与「会话中已有历史附件」，图片确实取不到时如实说明并提供重新上传提示；补充信息时沿用已确认的任务要求、提醒时间与草稿，不重复建任务。会话选择改为自定义面板（非系统单选弹窗），字体与界面风格一致，列表显示标题、最近消息摘要与更新时间，支持改名与切换保留上下文，自动命名按对话真实主题生成。沿用原包名、签名与用户数据，可直接覆盖安装。",
+  "versionCode": 33,
+  "versionName": "3.14.0-task-gestures",
+  "notes": "新增任务卡片手势操作：左滑可选择完成或删除，右滑可选择延迟、终止或放弃；滑动只展开按钮，不会直接执行。完成继续填写真实反馈并沿用AI分析；删除、终止和放弃均保留确认步骤；已结束任务可恢复，后续提醒随任务状态同步。保留原有包名、签名和历史用户数据，可覆盖安装。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 583946,
-      "sha256": "04ccf9bc489fc28ea95ec2fe593f0edff4fa0a182c2a6d72be15ef45be4a0eba",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v32-04ccf9bc.apk"
+      "size": 592277,
+      "sha256": "05444123156d1dcc7616494c38b8e6527b85351ba2f1fce9b5dbcba04bb2b16d",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v33-05444123.apk"
     }
   ]
 }
