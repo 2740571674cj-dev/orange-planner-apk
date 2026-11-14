@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 34,
-  "versionName": "3.14.1-gesture-visual-fix",
-  "notes": "修复任务卡手势显示异常：已完成、已终止、已放弃等任务卡恢复为完全不透明，不再在未滑动时透出两侧操作按钮。左滑仅显示对应左滑操作，右滑仅显示右滑操作，状态切换及回弹不会出现按钮重影；保留原有反馈、延迟、终止、放弃、恢复和删除流程。原应用包名与签名不变，可直接覆盖安装，旧记录保留。",
+  "versionCode": 35,
+  "versionName": "3.14.2-ai-centered-home",
+  "notes": "对话首页采用居中极简布局：问候语「今日作序，心有所期」不带句号，输入框直接选择模型并保留附件、发送；移除旧欢迎卡、重复标题和输入框内的账本勾选，历史会话可再次点击底部「对话」进入。已有对话继续使用底部输入，保留原有任务、成长、灵感及数据功能。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 592278,
-      "sha256": "b076992f928b2a137027ca8f445913f36244652649f00f5ea245d25dab3880d0",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v34-b076992f.apk"
+      "size": 592509,
+      "sha256": "3e97c61d25785b71f0855721ae76d59eb3072f9723f429023f90ef6c66b54c42",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v35-3e97c61d.apk"
     }
   ]
 }
