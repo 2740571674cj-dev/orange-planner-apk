@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 36,
-  "versionName": "3.14.3-chat-navigation",
-  "notes": "修复对话首页缺少操作入口的问题：在顶部明确展示「历史对话」和「新对话」，可查看、切换已有会话或创建新会话；中间问候语与输入框保持居中，模型选择、附件和发送功能保留。原有聊天记录与其他日序功能不受影响。",
+  "versionCode": 37,
+  "versionName": "3.14.4-real-streaming",
+  "notes": "日序对话升级为真实流式输出：回复按模型实时返回的内容逐步显示，不再依赖旧模型流式开关；兼容 Chat Completions 和 Responses 接口，优化长回复预览与断流重试，不支持流式的接口可安全回退完整响应。保留原有对话、任务、提醒和首页布局。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 592507,
-      "sha256": "cd09c758d9d10b183231a2b4614aa94cfb153588c60e5272a9405b440ff63a6b",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v36-cd09c758.apk"
+      "size": 596605,
+      "sha256": "e7ca54ac28bbbbd1b48a75dd7be33c1b0bdc5c1cfd263760bbc49fb861a97cde",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v37-e7ca54ac.apk"
     }
   ]
 }
