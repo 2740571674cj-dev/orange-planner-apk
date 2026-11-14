@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 33,
-  "versionName": "3.14.0-task-gestures",
-  "notes": "新增任务卡片手势操作：左滑可选择完成或删除，右滑可选择延迟、终止或放弃；滑动只展开按钮，不会直接执行。完成继续填写真实反馈并沿用AI分析；删除、终止和放弃均保留确认步骤；已结束任务可恢复，后续提醒随任务状态同步。保留原有包名、签名和历史用户数据，可覆盖安装。",
+  "versionCode": 34,
+  "versionName": "3.14.1-gesture-visual-fix",
+  "notes": "修复任务卡手势显示异常：已完成、已终止、已放弃等任务卡恢复为完全不透明，不再在未滑动时透出两侧操作按钮。左滑仅显示对应左滑操作，右滑仅显示右滑操作，状态切换及回弹不会出现按钮重影；保留原有反馈、延迟、终止、放弃、恢复和删除流程。原应用包名与签名不变，可直接覆盖安装，旧记录保留。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 592277,
-      "sha256": "05444123156d1dcc7616494c38b8e6527b85351ba2f1fce9b5dbcba04bb2b16d",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v33-05444123.apk"
+      "size": 592278,
+      "sha256": "b076992f928b2a137027ca8f445913f36244652649f00f5ea245d25dab3880d",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v34-b076992f.apk"
     }
   ]
 }
