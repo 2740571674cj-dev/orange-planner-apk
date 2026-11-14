@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 37,
-  "versionName": "3.14.4-real-streaming",
-  "notes": "日序对话升级为真实流式输出：回复按模型实时返回的内容逐步显示，不再依赖旧模型流式开关；兼容 Chat Completions 和 Responses 接口，优化长回复预览与断流重试，不支持流式的接口可安全回退完整响应。保留原有对话、任务、提醒和首页布局。",
+  "versionCode": 38,
+  "versionName": "3.15.0-language-refresh",
+  "notes": "日序全应用文案优化：遵循英文原生构思、中文独立创作与场景校验原则，调整今日、成长、灵感、财务、奖励、对话、提醒、设置、备份及更新等页面文字。保留原有交互、历史记录、权限范围、任务与金币规则，优化错误提示和系统通知的清晰度。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 596605,
-      "sha256": "e7ca54ac28bbbbd1b48a75dd7be33c1b0bdc5c1cfd263760bbc49fb861a97cde",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v37-e7ca54ac.apk"
+      "size": 596603,
+      "sha256": "3c9d0e3c3ef71327e1faaabf7c7c72e7b2b55977cd0c7f98f38bababb68e29e8",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v38-3c9d0e3c.apk"
     }
   ]
 }
