@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 38,
-  "versionName": "3.15.0-language-refresh",
-  "notes": "日序全应用文案优化：遵循英文原生构思、中文独立创作与场景校验原则，调整今日、成长、灵感、财务、奖励、对话、提醒、设置、备份及更新等页面文字。保留原有交互、历史记录、权限范围、任务与金币规则，优化错误提示和系统通知的清晰度。",
+  "versionCode": 39,
+  "versionName": "3.16.0-todo-cn-update",
+  "notes": "日序新增独立待办：不安排时间也能记录，点击前方方框即可完成或撤销；支持选填截止日期、编辑备注，并将待办直接转为有日期、时间和强提醒的计划，不产生重复记录。应用更新源改为官方发布仓库的 jsDelivr 主备镜像，保留 HTTPS、SHA-256 和原签名验收；旧版 GitHub Raw 更新源会迁移。保留原计划、记录与账号数据。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 596603,
-      "sha256": "3c9d0e3c3ef71327e1faaabf7c7c72e7b2b55977cd0c7f98f38bababb68e29e8",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v38-3c9d0e3c.apk"
+      "size": 600891,
+      "sha256": "70714d90fbcebc72b9caade33db3f2b6005edd01457f797a8e61d34a4671b372",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v39-70714d90.apk"
     }
   ]
 }
