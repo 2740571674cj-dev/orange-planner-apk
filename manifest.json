@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 40,
-  "versionName": "3.17.0-plan-todo",
-  "notes": "计划和待办可以双向移动。移到待办时会保留原事项，不会新增副本；这项计划原来的提醒会取消。",
+  "versionCode": 41,
+  "versionName": "3.18.0-quick-todo",
+  "notes": "新建待办只需写下要做的事，不用选日期。需要润色时，可点「AI 优化」，再由你确认保存。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 604988,
-      "sha256": "86e3005ca8a44533fde870d65ace14eff868647f7d657dd3130572dd2592e8a6",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v40-86e3005c.apk"
+      "size": 609217,
+      "sha256": "fa66520cd4b0c8ca60eba54b5044328e381bc922bc2d5738cfebb0873d3a24d0",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v41-fa66520c.apk"
     }
   ]
 }
