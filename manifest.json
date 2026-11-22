@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 44,
-  "versionName": "3.19.1-todo-actions",
-  "notes": "日期分组统一放进「筛选」。在待办列表左滑，或打开待办详情，都可以删除；两种方式都需要确认。",
+  "versionCode": 45,
+  "versionName": "3.20.0-inspiration-bubbles",
+  "notes": "灵感新增漂浮的立体气泡，原列表保留，可在气泡与列表之间切换。点一下放大阅读原文，点两下戳破，可从顶部撤销，也能找回已戳破的灵感。默认视图和气泡音效都可在设置里调整。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 617409,
-      "sha256": "704edcaa8570f66f9ef3e7f00a4775e663bb54670746ce6398567b4b8d82cb6e",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v44-704edcaa.apk"
+      "size": 639221,
+      "sha256": "b7406cc80680908321f76fb81f52fa4ab16f72cbd3150a8d9db8a41fa6d2631b",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v45-b7406cc8.apk"
     }
   ]
 }
