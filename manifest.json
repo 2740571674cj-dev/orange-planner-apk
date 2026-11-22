@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 43,
-  "versionName": "3.19.0-dated-todo",
-  "notes": "待办可按截止日期或创建日期分组，也能按状态筛选。单条待办支持确认后删除；想梳理清单时，可以主动请 AI 给建议。",
+  "versionCode": 44,
+  "versionName": "3.19.1-todo-actions",
+  "notes": "日期分组统一放进「筛选」。在待办列表左滑，或打开待办详情，都可以删除；两种方式都需要确认。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 617408,
-      "sha256": "392ff80f7ebe7989a6c1d4672999bbeb9713fe8b803cbc609c7f6814fda1da2d",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v43-392ff80f.apk"
+      "size": 617409,
+      "sha256": "704edcaa8570f66f9ef3e7f00a4775e663bb54670746ce6398567b4b8d82cb6e",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v44-704edcaa.apk"
     }
   ]
 }
