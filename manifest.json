@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 39,
-  "versionName": "3.16.0-todo-cn-update",
-  "notes": "日序新增独立待办：不安排时间也能记录，点击前方方框即可完成或撤销；支持选填截止日期、编辑备注，并将待办直接转为有日期、时间和强提醒的计划，不产生重复记录。应用更新源改为官方发布仓库的 jsDelivr 主备镜像，保留 HTTPS、SHA-256 和原签名验收；旧版 GitHub Raw 更新源会迁移。保留原计划、记录与账号数据。",
+  "versionCode": 40,
+  "versionName": "3.17.0-plan-todo",
+  "notes": "计划和待办可以双向移动。移到待办时会保留原事项，不会新增副本；这项计划原来的提醒会取消。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 600891,
-      "sha256": "70714d90fbcebc72b9caade33db3f2b6005edd01457f797a8e61d34a4671b372",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v39-70714d90.apk"
+      "size": 604988,
+      "sha256": "86e3005ca8a44533fde870d65ace14eff868647f7d657dd3130572dd2592e8a6",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v40-86e3005c.apk"
     }
   ]
 }
