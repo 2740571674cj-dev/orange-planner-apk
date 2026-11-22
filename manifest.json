@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 41,
-  "versionName": "3.18.0-quick-todo",
-  "notes": "新建待办只需写下要做的事，不用选日期。需要润色时，可点「AI 优化」，再由你确认保存。",
+  "versionCode": 42,
+  "versionName": "3.18.1-quick-todo-fix",
+  "notes": "修复部分模型连接无法优化待办的问题。优化进度只显示在按钮上，即使优化失败，也能直接保存原文。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 609217,
-      "sha256": "fa66520cd4b0c8ca60eba54b5044328e381bc922bc2d5738cfebb0873d3a24d0",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v41-fa66520c.apk"
+      "size": 613313,
+      "sha256": "28968885be3a93ae7c561b109b1a03f3020e2a6cf11aca0ecd2a72ce910cdf1f",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v42-28968885.apk"
     }
   ]
 }
