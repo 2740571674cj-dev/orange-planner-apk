@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 51,
-  "versionName": "3.26.0-model-icons",
-  "notes": "模型连接和 AI 等待时的图标会按模型系列显示。图标随应用安装，无需联网下载。",
+  "versionCode": 52,
+  "versionName": "3.27.0-chat-task-reminders",
+  "notes": "聊天转成任务时，正文会整理成清楚的行动内容；只有明确指向前文时才沿用，不确定会先问。相对提醒按原消息发送时间计算，仍需确认才保存。模型图标可用本机图片更换，仅保存在当前设备。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 713634,
-      "sha256": "13a2716cca899aa376fbba604da072905a20d30e36330cf76bc050b988e1f0f4",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v51-13a2716c.apk"
+      "size": 717728,
+      "sha256": "41c22d011257196ca63e904e812f104cf72a24cdadbc94b18cf4abfb5d096586",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v52-41c22d01.apk"
     }
   ]
 }
