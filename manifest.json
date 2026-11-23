@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 60,
-  "versionName": "3.30.2-memory-card-repair",
-  "notes": "纯记忆不再需要点确认。开启自动记忆后，符合条件的内容仍在本机保存；关闭后不会自动记录。旧的记忆确认卡不再执行。若同一条回复还含有待办，只需确认真正的待办，已有记忆不受影响。",
+  "versionCode": 61,
+  "versionName": "3.30.3-memory-repair",
+  "notes": "开启长期记忆后，打开原来那段对话，日序可在本机补记其中明确的称呼等信息，不必重新发送。已经忘记、明确说过不要记，或表述不清的信息不会补记。补记不上传旧对话，也不会额外请求模型；普通聊天和待办确认照常。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 796065,
-      "sha256": "01deb34aa0db0da20675a11043ff908faabc3dc1a441661f382e9e3f89e83a39",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v60-01deb34a.apk"
+      "size": 800159,
+      "sha256": "9365300ae4897cbc0b38a4f81e453e1ac71ba2738dc0ec969915130373097e3d",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v61-9365300a.apk"
     }
   ]
 }
