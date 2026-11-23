@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 49,
-  "versionName": "3.24.0-plan-draft",
-  "notes": "待办转计划时，会根据原文自动填入能确定的日期和时间，不再在草稿正文重复显示已提取的日期。也可填写补充说明，确认后才保存。",
+  "versionCode": 50,
+  "versionName": "3.25.0-model-connections",
+  "notes": "模型连接界面重新整理，可更清楚地查看当前模型、切换连接和管理自定义连接。AI 等待状态使用统一图标。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 705374,
-      "sha256": "3047e752683ed8f7e51b648ed18f10929d898208884f7a1e3a5d4f5f1244271e",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v49-3047e752.apk"
+      "size": 709472,
+      "sha256": "7835261bee14131d6743b4a58be78d38f319d170c3cc4d154e2c5dbdb1922724",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v50-7835261b.apk"
     }
   ]
 }
