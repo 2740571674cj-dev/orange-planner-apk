@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 64,
-  "versionName": "3.30.6-model-transport",
-  "notes": "模型连接失败和回复无法读取不再混报，出错时会指出是哪一步出了问题。回复中途断开时，已收到的正文会保留。可从原消息直接重试，不会重复显示你发的那条消息。",
+  "versionCode": 65,
+  "versionName": "3.30.7-chat-retry",
+  "notes": "新消息发送失败后，从原消息重试成功，符合当前授权的内容仍可自动记忆，只记一次。升级前留下的失败或成功记录不会自动补记。本次未调整跨对话称呼的调用方式。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 812449,
-      "sha256": "7247166b288a723ba6d7a6a983a037f7c765892cc3bf50dcbaa26236cda20bf2",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v64-7247166b.apk"
+      "size": 812448,
+      "sha256": "a5b2bfed1e02f3d8948d90b018e6c59bf0867550d1f5aa86d4541c37d610df9a",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v65-a5b2bfed.apk"
     }
   ]
 }
