@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 57,
-  "versionName": "3.29.0-long-term-memory",
-  "notes": "长期记忆默认关闭。开启后，模型会在正常回复时判断哪些内容值得长期记住，合适的内容会自动保存在本机，无需逐条确认。可查看来源、编辑或忘记。已存记忆不会发给普通模型，可用于本机识别提醒。",
+  "versionCode": 58,
+  "versionName": "3.30.0-memory-continuity",
+  "notes": "开启长期记忆后，可在本机跨对话查看和更新事项，并查看来源。关联已有待办或计划不会重复创建，忘记关联也不会删除原记录。普通外部模型不会收到本机已存记忆。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 779680,
-      "sha256": "83755cbf0115adf3214de8f85d6750cddefee6f3e7ea8bd8bc069cc67c082510",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v57-83755cbf.apk"
+      "size": 787871,
+      "sha256": "35a5b14af0292316e8312bc992abab3168665a165c521bb334ad83ea36e99816",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v58-35a5b14a.apk"
     }
   ]
 }
