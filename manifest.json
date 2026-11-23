@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 53,
-  "versionName": "3.27.1-chat-draft-followup",
-  "notes": "在聊天草稿里明确纠正或补充时，日序会修改原草稿，保留未改的内容。另建任务不会覆盖原草稿，指向不明时会先问清楚，仍需确认才保存。",
+  "versionCode": 54,
+  "versionName": "3.28.0-master-plan",
+  "notes": "新增总计划，可分别编辑周、月、年计划，独立设置文字颜色和高亮，添加附件并在本机预览。AI 分析仅发送你主动确认的当前正文，不发送附件。新计划和附件保存在本机，暂不随原有云备份同步。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 721825,
-      "sha256": "532e9bb27cf071c09a2228592da6768287477251c54603f0ff6ecc87232e6971",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v53-532e9bb2.apk"
+      "size": 759199,
+      "sha256": "53964472ab4d7b0f4f893aa5600d6d9e017bed334d910c30fa3ed5b8a51f7e0e",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v54-53964472.apk"
     }
   ]
 }
