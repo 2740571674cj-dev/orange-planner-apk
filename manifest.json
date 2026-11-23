@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 58,
-  "versionName": "3.30.0-memory-continuity",
-  "notes": "开启长期记忆后，可在本机跨对话查看和更新事项，并查看来源。关联已有待办或计划不会重复创建，忘记关联也不会删除原记录。普通外部模型不会收到本机已存记忆。",
+  "versionCode": 59,
+  "versionName": "3.30.1-memory-recovery",
+  "notes": "开启长期记忆后，打开一段旧对话时，日序会在本机补记其中少量明确的信息，不会上传旧对话。普通回复没有附带记忆建议时，也可以在本机补记本次对话中明确的信息，无需再次请求模型。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 787871,
-      "sha256": "35a5b14af0292316e8312bc992abab3168665a165c521bb334ad83ea36e99816",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v58-35a5b14a.apk"
+      "size": 791968,
+      "sha256": "ae77b6a31c0dc1d45726ab33a469cf0d26b7ac585dfa257b308ddd61c55d808c",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v59-ae77b6a3.apk"
     }
   ]
 }
