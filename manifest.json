@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 47,
-  "versionName": "3.22.0-ai-live",
-  "notes": "AI 对话在模型返回文字时逐段显示，不必等整段写完。可停止正在生成的回复，也可在模型设置里检查是否支持流式输出。",
+  "versionCode": 48,
+  "versionName": "3.23.0-plan-vault",
+  "notes": "待办可转为计划，AI 建议的安排时间由你确认后才会保存。升级时沿用原有加密模型配置；遇到暂时读不出的情况，不会用空列表覆盖。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 697184,
-      "sha256": "ec566035809c438c8bc95144afa3dc703337e86438667b7ab4dd4392be61b076",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v47-ec566035.apk"
+      "size": 701280,
+      "sha256": "4171ca1ff845cbbbe4d22e81f9b8df011a3cfe411bf81449d3ab468f0b39dc4e",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v48-4171ca1f.apk"
     }
   ]
 }
