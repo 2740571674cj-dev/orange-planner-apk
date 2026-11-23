@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 56,
-  "versionName": "3.28.2-chat-draft-continuity",
-  "notes": "修复反复编辑旧消息时草稿无法更新的问题，补回同一草稿的追问上下文，并兼容部分服务的流式回复格式。仍需确认后才保存。",
+  "versionCode": 57,
+  "versionName": "3.29.0-long-term-memory",
+  "notes": "长期记忆默认关闭。开启后，模型会在正常回复时判断哪些内容值得长期记住，合适的内容会自动保存在本机，无需逐条确认。可查看来源、编辑或忘记。已存记忆不会发给普通模型，可用于本机识别提醒。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 767393,
-      "sha256": "5c8a4e92860d1e1b60e6eb3eb29f1b732c1270584667f1cb4645ebc6f48ea13a",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v56-5c8a4e92.apk"
+      "size": 779680,
+      "sha256": "83755cbf0115adf3214de8f85d6750cddefee6f3e7ea8bd8bc069cc67c082510",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v57-83755cbf.apk"
     }
   ]
 }
