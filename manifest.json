@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 50,
-  "versionName": "3.25.0-model-connections",
-  "notes": "模型连接界面重新整理，可更清楚地查看当前模型、切换连接和管理自定义连接。AI 等待状态使用统一图标。",
+  "versionCode": 51,
+  "versionName": "3.26.0-model-icons",
+  "notes": "模型连接和 AI 等待时的图标会按模型系列显示。图标随应用安装，无需联网下载。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 709472,
-      "sha256": "7835261bee14131d6743b4a58be78d38f319d170c3cc4d154e2c5dbdb1922724",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v50-7835261b.apk"
+      "size": 713634,
+      "sha256": "13a2716cca899aa376fbba604da072905a20d30e36330cf76bc050b988e1f0f4",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v51-13a2716c.apk"
     }
   ]
 }
