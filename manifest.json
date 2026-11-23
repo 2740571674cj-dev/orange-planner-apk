@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 55,
-  "versionName": "3.28.1-chat-draft-hotfix",
-  "notes": "聊天里生成失败的草稿可在原处重试。改正文后，草稿卡片的摘要也会同步更新，仍需确认才保存。总计划和本机附件预览继续可用。",
+  "versionCode": 56,
+  "versionName": "3.28.2-chat-draft-continuity",
+  "notes": "修复反复编辑旧消息时草稿无法更新的问题，补回同一草稿的追问上下文，并兼容部分服务的流式回复格式。仍需确认后才保存。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 767391,
-      "sha256": "3bd4abc584ba7a718544345e5526f7c418d5e22fc2c39ad16437ac3c0b19a42c",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v55-3bd4abc5.apk"
+      "size": 767393,
+      "sha256": "5c8a4e92860d1e1b60e6eb3eb29f1b732c1270584667f1cb4645ebc6f48ea13a",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v56-5c8a4e92.apk"
     }
   ]
 }
