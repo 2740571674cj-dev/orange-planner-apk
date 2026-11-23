@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 65,
-  "versionName": "3.30.7-chat-retry",
-  "notes": "新消息发送失败后，从原消息重试成功，符合当前授权的内容仍可自动记忆，只记一次。升级前留下的失败或成功记录不会自动补记。本次未调整跨对话称呼的调用方式。",
+  "versionCode": 66,
+  "versionName": "3.30.8-local-memory-reply",
+  "notes": "在「长期记忆」中开启「在本机显示称呼」后，如果日序已保存你的称呼，新对话第一句明确问起称呼时，日序会在本机回答，不把称呼发给模型。这不改变其他对话的记忆用法，上一版的新消息重试修复也保留。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 812448,
-      "sha256": "a5b2bfed1e02f3d8948d90b018e6c59bf0867550d1f5aa86d4541c37d610df9a",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v65-a5b2bfed.apk"
+      "size": 816545,
+      "sha256": "4a69830147a294cbee9c8883a4ad655151a8316a6129425333dff09157a4dc44",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v66-4a698301.apk"
     }
   ]
 }
