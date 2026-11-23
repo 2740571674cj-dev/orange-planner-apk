@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 48,
-  "versionName": "3.23.0-plan-vault",
-  "notes": "待办可转为计划，AI 建议的安排时间由你确认后才会保存。升级时沿用原有加密模型配置；遇到暂时读不出的情况，不会用空列表覆盖。",
+  "versionCode": 49,
+  "versionName": "3.24.0-plan-draft",
+  "notes": "待办转计划时，会根据原文自动填入能确定的日期和时间，不再在草稿正文重复显示已提取的日期。也可填写补充说明，确认后才保存。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 701280,
-      "sha256": "4171ca1ff845cbbbe4d22e81f9b8df011a3cfe411bf81449d3ab468f0b39dc4e",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v48-4171ca1f.apk"
+      "size": 705374,
+      "sha256": "3047e752683ed8f7e51b648ed18f10929d898208884f7a1e3a5d4f5f1244271e",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v49-3047e752.apk"
     }
   ]
 }
