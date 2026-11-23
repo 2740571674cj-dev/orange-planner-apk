@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 63,
-  "versionName": "3.30.5-memory-consent",
-  "notes": "模型设置新增「用记忆改善回复」，默认关闭。你可为当前模型连接开启，也可随时关闭。开启后，日序只选取与当前对话相关的记忆交给该模型参考，不会把全部记忆一起发送。",
+  "versionCode": 64,
+  "versionName": "3.30.6-model-transport",
+  "notes": "模型连接失败和回复无法读取不再混报，出错时会指出是哪一步出了问题。回复中途断开时，已收到的正文会保留。可从原消息直接重试，不会重复显示你发的那条消息。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 812447,
-      "sha256": "3ef6281c93883d654f255f04363d06b2c2fc7c592c6553f028779252d813b3fb",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v63-3ef6281c.apk"
+      "size": 812449,
+      "sha256": "7247166b288a723ba6d7a6a983a037f7c765892cc3bf50dcbaa26236cda20bf2",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v64-7247166b.apk"
     }
   ]
 }
