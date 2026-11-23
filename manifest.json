@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 61,
-  "versionName": "3.30.3-memory-repair",
-  "notes": "开启长期记忆后，打开原来那段对话，日序可在本机补记其中明确的称呼等信息，不必重新发送。已经忘记、明确说过不要记，或表述不清的信息不会补记。补记不上传旧对话，也不会额外请求模型；普通聊天和待办确认照常。",
+  "versionCode": 62,
+  "versionName": "3.30.4-memory-answers",
+  "notes": "问日序该怎么称呼你，只会查询本机已有记忆，不会新增或修改记忆。打开原来那段对话时，日序可以根据你明确说过的内容，修正能追溯到原话的自动错记，不必重新发送。手动保存的记忆不会被覆盖。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 800159,
-      "sha256": "9365300ae4897cbc0b38a4f81e453e1ac71ba2738dc0ec969915130373097e3d",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v61-9365300a.apk"
+      "size": 804256,
+      "sha256": "27157946c841924ee2ddfd42236d7f9f104f2ae504fab16fd6791465478010ef",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v62-27157946.apk"
     }
   ]
 }
