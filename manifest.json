@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 59,
-  "versionName": "3.30.1-memory-recovery",
-  "notes": "开启长期记忆后，打开一段旧对话时，日序会在本机补记其中少量明确的信息，不会上传旧对话。普通回复没有附带记忆建议时，也可以在本机补记本次对话中明确的信息，无需再次请求模型。",
+  "versionCode": 60,
+  "versionName": "3.30.2-memory-card-repair",
+  "notes": "纯记忆不再需要点确认。开启自动记忆后，符合条件的内容仍在本机保存；关闭后不会自动记录。旧的记忆确认卡不再执行。若同一条回复还含有待办，只需确认真正的待办，已有记忆不受影响。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 791968,
-      "sha256": "ae77b6a31c0dc1d45726ab33a469cf0d26b7ac585dfa257b308ddd61c55d808c",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v59-ae77b6a3.apk"
+      "size": 796065,
+      "sha256": "01deb34aa0db0da20675a11043ff908faabc3dc1a441661f382e9e3f89e83a39",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v60-01deb34a.apk"
     }
   ]
 }
