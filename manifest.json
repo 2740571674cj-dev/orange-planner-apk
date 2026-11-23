@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 54,
-  "versionName": "3.28.0-master-plan",
-  "notes": "新增总计划，可分别编辑周、月、年计划，独立设置文字颜色和高亮，添加附件并在本机预览。AI 分析仅发送你主动确认的当前正文，不发送附件。新计划和附件保存在本机，暂不随原有云备份同步。",
+  "versionCode": 55,
+  "versionName": "3.28.1-chat-draft-hotfix",
+  "notes": "聊天里生成失败的草稿可在原处重试。改正文后，草稿卡片的摘要也会同步更新，仍需确认才保存。总计划和本机附件预览继续可用。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 759199,
-      "sha256": "53964472ab4d7b0f4f893aa5600d6d9e017bed334d910c30fa3ed5b8a51f7e0e",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v54-53964472.apk"
+      "size": 767391,
+      "sha256": "3bd4abc584ba7a718544345e5526f7c418d5e22fc2c39ad16437ac3c0b19a42c",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v55-3bd4abc5.apk"
     }
   ]
 }
