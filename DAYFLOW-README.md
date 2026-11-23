@@ -1,14 +1,14 @@
 # 日序 DayFlow · Android 更新
 
-当前版本：**v66（3.30.8-local-memory-reply）**
+当前版本：**v67（3.30.9-memory-review）**
 
-[国内网络下载 v66 安装包](https://cdn.jsdelivr.net/gh/2740571674cj-dev/orange-planner-apk@dayflow-releases/dayflow-v66-4a698301.apk)
+[国内网络下载 v67 安装包](https://cdn.jsdelivr.net/gh/2740571674cj-dev/orange-planner-apk@dayflow-releases/dayflow-v67-d8db6f18.apk)
 
-[备用安装包地址](https://gcore.jsdelivr.net/gh/2740571674cj-dev/orange-planner-apk@dayflow-releases/dayflow-v66-4a698301.apk)
+[备用安装包地址](https://gcore.jsdelivr.net/gh/2740571674cj-dev/orange-planner-apk@dayflow-releases/dayflow-v67-d8db6f18.apk)
 
 [版本更新清单](https://cdn.jsdelivr.net/gh/2740571674cj-dev/orange-planner-apk@dayflow-releases/manifest.json)
 
-更新内容：在「长期记忆」中开启「在本机显示称呼」后，如果日序已保存你的称呼，新对话第一句明确问起称呼时，日序会在本机回答，不把称呼发给模型。这不改变其他对话的记忆用法，上一版的新消息重试修复也保留。
+更新内容：模型连接新增独立记忆审查，默认关闭。开启后，只有当本轮内容脱敏后仍有足够依据时，才会单独送审。第一次明确表达的长期偏好可以记下，之后明确更正时会更新原记录。如果记忆在等待回复时已保存，等待处会显示「已更新记忆」；普通回复不会为审查多等。
 
 **已安装旧版但无法检查更新时，请通过上述链接下载并直接覆盖安装。不要卸载旧版，覆盖安装前建议导出本机加密备份。** 安装包使用与现有版本相同的包名和签名，仍需 Android 系统确认安装。
 

@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 66,
-  "versionName": "3.30.8-local-memory-reply",
-  "notes": "在「长期记忆」中开启「在本机显示称呼」后，如果日序已保存你的称呼，新对话第一句明确问起称呼时，日序会在本机回答，不把称呼发给模型。这不改变其他对话的记忆用法，上一版的新消息重试修复也保留。",
+  "versionCode": 67,
+  "versionName": "3.30.9-memory-review",
+  "notes": "模型连接新增独立记忆审查，默认关闭。开启后，只有当本轮内容脱敏后仍有足够依据时，才会单独送审。第一次明确表达的长期偏好可以记下，之后明确更正时会更新原记录。如果记忆在等待回复时已保存，等待处会显示「已更新记忆」；普通回复不会为审查多等。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 816545,
-      "sha256": "4a69830147a294cbee9c8883a4ad655151a8316a6129425333dff09157a4dc44",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v66-4a698301.apk"
+      "size": 828832,
+      "sha256": "d8db6f187d3802ab164f13ed1779e6f4e40a31c73d8aec92dec7bc401eec48e1",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v67-d8db6f18.apk"
     }
   ]
 }
