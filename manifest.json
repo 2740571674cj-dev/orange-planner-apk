@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 68,
-  "versionName": "3.30.10-reminder-and-editor",
-  "notes": "提醒可设置未确认时隔多久再提醒，也可以关闭再次提醒。调整了滚动位置和提醒设置界面。总计划富文本编辑改进了选中文字、设置格式和编辑后的显示；原有记忆与重试功能保留。",
+  "versionCode": 69,
+  "versionName": "3.30.11-calendar-status",
+  "notes": "周历和月历中，有未完成计划的日期用红色边框标出；当天的计划全部完成后，不再显示标记。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 837025,
-      "sha256": "e3242dbb63c4a5fdf584034fc30e81f86b31cc8c8af834afd240ad420c4bfe42",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v68-e3242dbb.apk"
+      "size": 837026,
+      "sha256": "7304cb06cff2704d601b4d0be13e7a0e150238678a875b3f43fce6598b2c6f05",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v69-7304cb06.apk"
     }
   ]
 }
