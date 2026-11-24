@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 67,
-  "versionName": "3.30.9-memory-review",
-  "notes": "模型连接新增独立记忆审查，默认关闭。开启后，只有当本轮内容脱敏后仍有足够依据时，才会单独送审。第一次明确表达的长期偏好可以记下，之后明确更正时会更新原记录。如果记忆在等待回复时已保存，等待处会显示「已更新记忆」；普通回复不会为审查多等。",
+  "versionCode": 68,
+  "versionName": "3.30.10-reminder-and-editor",
+  "notes": "提醒可设置未确认时隔多久再提醒，也可以关闭再次提醒。调整了滚动位置和提醒设置界面。总计划富文本编辑改进了选中文字、设置格式和编辑后的显示；原有记忆与重试功能保留。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 828832,
-      "sha256": "d8db6f187d3802ab164f13ed1779e6f4e40a31c73d8aec92dec7bc401eec48e1",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v67-d8db6f18.apk"
+      "size": 837025,
+      "sha256": "e3242dbb63c4a5fdf584034fc30e81f86b31cc8c8af834afd240ad420c4bfe42",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v68-e3242dbb.apk"
     }
   ]
 }
