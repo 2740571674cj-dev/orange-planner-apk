@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 69,
-  "versionName": "3.30.11-calendar-status",
-  "notes": "周历和月历中，有未完成计划的日期用红色边框标出；当天的计划全部完成后，不再显示标记。",
+  "versionCode": 72,
+  "versionName": "3.30.14-compound-reminders",
+  "notes": "修复对话中只保留第一项提醒的问题。现在一次说多项提醒时，日序会逐项列出待确认的操作；修改提醒时间不会改动会议时间。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 837026,
-      "sha256": "7304cb06cff2704d601b4d0be13e7a0e150238678a875b3f43fce6598b2c6f05",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v69-7304cb06.apk"
+      "size": 841122,
+      "sha256": "5d83e5cfa24c4e3699d3b3a8cd969e17ae2452ea0d74cf4d193606a985728640",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v72-5d83e5cf.apk"
     }
   ]
 }
