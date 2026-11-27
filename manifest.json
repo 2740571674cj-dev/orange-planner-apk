@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 74,
-  "versionName": "3.30.16-gold-a-compound-reminders",
-  "notes": "保留 Gold A 界面与原有记忆功能，修复一句话中的多项提醒只保留第一项的问题。新增和调整提醒可一起核对；会议本身的时间不变。",
+  "versionCode": 75,
+  "versionName": "3.30.17-gold-a-context-continuity",
+  "notes": "修复同一会话里“好了”“要多久”等追问接不上前文的问题。对话接近模型上限时自动压缩较早的上下文，原聊天记录保留。保留 Gold A 和多项提醒确认。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 1079319,
-      "sha256": "5a66420c2735ac057a5ccd92fdca606e02bb56bd65b436649925c47736c8a67f",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v74-5a66420c.apk"
+      "size": 1083487,
+      "sha256": "0c8e71683807aa8c20f1e3574d2e34e66a5ee5e3c6914d8ed9d2e18b1d706f3b",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v75-0c8e7168.apk"
     }
   ]
 }
