@@ -1,14 +1,14 @@
 # 日序 DayFlow · Android 更新
 
-当前版本：**v72（3.30.14-compound-reminders）**
+当前版本：**v74（3.30.16-gold-a-compound-reminders）**
 
-[国内网络下载 v72 安装包](https://cdn.jsdelivr.net/gh/2740571674cj-dev/orange-planner-apk@dayflow-releases/dayflow-v72-5d83e5cf.apk)
+[国内网络下载 v74 安装包](https://cdn.jsdelivr.net/gh/2740571674cj-dev/orange-planner-apk@dayflow-releases/dayflow-v74-5a66420c.apk)
 
-[备用安装包地址](https://gcore.jsdelivr.net/gh/2740571674cj-dev/orange-planner-apk@dayflow-releases/dayflow-v72-5d83e5cf.apk)
+[备用安装包地址](https://gcore.jsdelivr.net/gh/2740571674cj-dev/orange-planner-apk@dayflow-releases/dayflow-v74-5a66420c.apk)
 
 [版本更新清单](https://cdn.jsdelivr.net/gh/2740571674cj-dev/orange-planner-apk@dayflow-releases/manifest.json)
 
-更新内容：修复对话中只保留第一项提醒的问题。现在一次说多项提醒时，日序会逐项列出待确认的操作；修改提醒时间不会改动会议时间。
+更新内容：保留 Gold A 界面与原有记忆功能，修复一句话中的多项提醒只保留第一项的问题。新增和调整提醒可一起核对；会议本身的时间不变。
 
 **已安装旧版但无法检查更新时，请通过上述链接下载并直接覆盖安装。不要卸载旧版，覆盖安装前建议导出本机加密备份。** 安装包使用与现有版本相同的包名和签名，仍需 Android 系统确认安装。
 

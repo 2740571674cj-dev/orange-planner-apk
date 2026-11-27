@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 72,
-  "versionName": "3.30.14-compound-reminders",
-  "notes": "修复对话中只保留第一项提醒的问题。现在一次说多项提醒时，日序会逐项列出待确认的操作；修改提醒时间不会改动会议时间。",
+  "versionCode": 74,
+  "versionName": "3.30.16-gold-a-compound-reminders",
+  "notes": "保留 Gold A 界面与原有记忆功能，修复一句话中的多项提醒只保留第一项的问题。新增和调整提醒可一起核对；会议本身的时间不变。",
   "packages": [
     {
       "platform": "android",
       "packageName": "dev.agentstudio.app0b35a1a11e",
-      "size": 841122,
-      "sha256": "5d83e5cfa24c4e3699d3b3a8cd969e17ae2452ea0d74cf4d193606a985728640",
-      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v72-5d83e5cf.apk"
+      "size": 1079319,
+      "sha256": "5a66420c2735ac057a5ccd92fdca606e02bb56bd65b436649925c47736c8a67f",
+      "url": "https://raw.githubusercontent.com/2740571674cj-dev/orange-planner-apk/dayflow-releases/dayflow-v74-5a66420c.apk"
     }
   ]
 }
